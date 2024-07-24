@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "Alice to Zouroku - Wonder Drive by ORESAMA",
-    videoId : "https://nl.catbox.video/kl3z4w.webm",
+    name: "3D Kanojo Real Girl - Futari Nara by BiSH",
+    videoId : "https://nl.catbox.video/2t0bry.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "Bungo Stray Dogs 2 - Reason Living by SCREEN mode",
-    videoId : "https://nl.catbox.video/fasdl1.webm",
+    name: "Ame-iro Cocoa Side G - Colorful Passage by Rika Tachibana",
+    videoId : "https://nl.catbox.video/4ti9sy.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "Tensei Shitara Slime Datta Ken - Meguru Mono by Takuma Terashima",
-    videoId : "https://nl.catbox.video/qtw27u.webm",
+    name: "BanG Dream! 2nd Season - Kizuna Music♪ by Poppin'Party",
+    videoId : "https://nl.catbox.video/6hk1m3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "Flip Flappers - Serendipity by ZAQ",
-    videoId : "https://nl.catbox.video/qr7dp1.webm",
+    name: "BanG Dream! 2nd Season - BRAVE JEWEL by Roselia",
+    videoId : "https://nl.catbox.video/hkh27x.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,8 +41,98 @@ export const songs = [
     }
 },
 	{
-    name: "ACCA 13-ku Kansatsu-ka - Shadow and Truth by ONE III NOTES",
-    videoId : "https://nl.catbox.video/gdbuzd.webm",
+    name: "Bermuda Triangle: Colorful Pastrale - Wonderland Girl by Pastel*Palettes",
+    videoId : "https://nl.catbox.video/cbnc0l.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Boogiepop wa Warawanai - shadowgraph by MYTH & ROID",
+    videoId : "https://nl.catbox.video/vikz0t.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "B-PROJECT: Zecchou*Emotion - Zecchou*Emotion by B-PROJECT",
+    videoId : "https://nl.catbox.video/xp4cwc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Captain Bal - Bal to Takarajima by Oshow (Asakusa Jinta)",
+    videoId : "https://nl.catbox.video/qmiobv.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Choujigen Kakumei Anime: Dimension High School - Here we go! by 4 Dimensions",
+    videoId : "https://nl.catbox.video/8q9jq0.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Circlet Princess - HEAT:Moment by Miyuki Hashimoto",
+    videoId : "https://nl.catbox.video/xjm0kj.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "City Hunter: Shinjuku Private Eyes - Mr.Cool by AMAZONS, Lotus Juice",
+    videoId : "https://nl.catbox.video/5twvrx.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Code Geass: Fukkatsu no Lelouch - Kono Sekai de by Leo Ieiri",
+    videoId : "https://nl.catbox.video/dr2d8b.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Date A Live III - I swear by sweet ARMS",
+    videoId : "https://nl.catbox.video/57oth8.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Domestic na Kanojo - Kawaki o Ameku by Minami",
+    videoId : "https://nl.catbox.video/txcl05.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -61,8 +151,8 @@ export const songs = [
     }
 },
 	{
-    name: "Eureka Seven - Shounen Heart by HOME MADE Kazoku",
-    videoId : "https://nl.catbox.video/hccohi.webm",
+    name: "Dororo - Dororo by ASIAN KUNG-FU GENERATION",
+    videoId : "https://nl.catbox.video/s6ri20.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -71,8 +161,8 @@ export const songs = [
     }
 },
 	{
-    name: "Kakuriyo no Yadomeshi - Tomoshibi no Manimani by Nao Touyama",
-    videoId : "https://nl.catbox.video/10w3nm.webm",
+    name: "Doukyonin wa Hiza, Tokidoki, Atama no Ue. - Unknown World by Schrödinger's Cat adding kotringo",
+    videoId : "https://nl.catbox.video/10vupz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -81,8 +171,8 @@ export const songs = [
     }
 },
 	{
-    name: "Mahoujin Guruguru - Ryuusei Dance Floor by ORESAMA",
-    videoId : "https://nl.catbox.video/p0edvh.webm",
+    name: "Egao no Daika - Egao no Kanata by Chiho feat. majiko",
+    videoId : "https://nl.catbox.video/ric9kh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -91,8 +181,8 @@ export const songs = [
     }
 },
 	{
-    name: "Cardcaptor Sakura - Platinum by Maaya Sakamoto",
-    videoId : "https://nl.catbox.video/wntw9t.webm",
+    name: "Eiga Doraemon: Nobita no Getsumen Tansaki - Yume o Kanaete Doraemon by mao feat. Himawari Kids",
+    videoId : "https://nl.catbox.video/b8ch9b.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -101,8 +191,8 @@ export const songs = [
     }
 },
 	{
-    name: "Shadowverse F - Tick-Tock by NEWS",
-    videoId : "https://nl.catbox.video/wgqq4b.webm",
+    name: "Eiga no Osomatsu-san - Neko to Disco to Sakana by Aya Endou & Nanami Yamashita",
+    videoId : "https://nl.catbox.video/aegvwz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -111,8 +201,8 @@ export const songs = [
     }
 },
 	{
-    name: "Jujutsu Kaisen 2nd Season - Ao no Sumika by Tatsuya Kitani",
-    videoId : "https://nl.catbox.video/589lde.webm",
+    name: "Eiga Precure Miracle Universe - Precure! Kana Yell☆Miracle by Kanako Miyamoto",
+    videoId : "https://nl.catbox.video/w0efbm.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -121,8 +211,8 @@ export const songs = [
     }
 },
 	{
-    name: "Tsurune - Naru by Luck Life",
-    videoId : "https://nl.catbox.video/tsm12k.webm",
+    name: "Endro~! - Endro~ru! by Yuusha Party",
+    videoId : "https://nl.catbox.video/jwcv3p.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -131,8 +221,8 @@ export const songs = [
     }
 },
 	{
-    name: "King of Prism: PRIDE the HERO - pride by Shouta Aoi",
-    videoId : "https://nl.catbox.video/3m47p6.webm",
+    name: "Eromanga Sensei - Hitorigoto by ClariS",
+    videoId : "https://nl.catbox.video/tfcecs.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -141,8 +231,8 @@ export const songs = [
     }
 },
 	{
-    name: "Saiyuki Reload: Zeroin - Kami mo Hotoke mo by GRANRODEO",
-    videoId : "https://nl.catbox.video/92soq2.webm",
+    name: "Fate/stay night: Heaven's Feel II. Lost Butterfly - you have to choose your future by Yuri Kasahara",
+    videoId : "https://nl.catbox.video/f8pe3d.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -151,8 +241,8 @@ export const songs = [
     }
 },
 	{
-    name: "Moeyo Ken - Toki no Musoubana by Hiromi Satou",
-    videoId : "https://nl.catbox.video/xhmok4.webm",
+    name: "Fight League: Gear Gadget Generators - Winners by TeddyLoid feat. Reol & Giga",
+    videoId : "https://nl.catbox.video/mrivrd.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -161,8 +251,8 @@ export const songs = [
     }
 },
 	{
-    name: "Princess Principal: Crown Handler - LIES & TIES by Void_Chords feat. Yui Mugino",
-    videoId : "https://nl.catbox.video/22z9zi.webm",
+    name: "Fukigen na Mononokean Tsuzuki - Long Time Traveler by mono palette.",
+    videoId : "https://nl.catbox.video/cutf7w.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -171,8 +261,8 @@ export const songs = [
     }
 },
 	{
-    name: "Yofukashi no Uta - Daten by Creepy Nuts",
-    videoId : "https://nl.catbox.video/2p06fq.webm",
+    name: "Gekijouban Oushitsu Kyoushi Heine - Parallel na Kankei by Shougo Sakamoto",
+    videoId : "https://nl.catbox.video/hi11mp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -181,8 +271,8 @@ export const songs = [
     }
 },
 	{
-    name: "Bara-Ou no Souretsu - Ware, Bara ni Insu by Makoto Furukawa",
-    videoId : "https://nl.catbox.video/twfjue.webm",
+    name: "Girly Air Force - Break the Blue!! by Run Girls, Run!",
+    videoId : "https://nl.catbox.video/kq1sw8.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -191,8 +281,8 @@ export const songs = [
     }
 },
 	{
-    name: "Gunjou no Fanfare - Move the soul by JO1",
-    videoId : "https://nl.catbox.video/3erpl8.webm",
+    name: "Gotoubun no Hanayome - Gotoubun no Kimochi by Nakano-ke no Itsutsugo",
+    videoId : "https://nl.catbox.video/uctz6h.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -201,8 +291,8 @@ export const songs = [
     }
 },
 	{
-    name: "Naruto - Tada Yowai dake ja Nakute Bokura wa... by Mass Alert",
-    videoId : "https://nl.catbox.video/0mg65q.webm",
+    name: "Grimms Notes the Animation - Innocent Notes by Ayana Taketatsu",
+    videoId : "https://nl.catbox.video/7kehxe.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -211,8 +301,8 @@ export const songs = [
     }
 },
 	{
-    name: "Hanyou no Yashahime: Ni no Shou - Kyoumei by SixTONES",
-    videoId : "https://nl.catbox.video/c5fx19.webm",
+    name: "Grisaia: Phantom Trigger the Animation - Gensou no Rondo by Maon Kurosaki",
+    videoId : "https://nl.catbox.video/p87zgl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -221,8 +311,8 @@ export const songs = [
     }
 },
 	{
-    name: "Nodame Cantabile: Finale - Manazashi☆Daydream by Yu Sakai",
-    videoId : "https://nl.catbox.video/vp6g8x.webm",
+    name: "High Score Girl - New Stranger by sora tob sakana",
+    videoId : "https://nl.catbox.video/waujd8.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -231,8 +321,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sousei no Aquarion - Sousei no Aquarion by AKINO",
-    videoId : "https://nl.catbox.video/gzn49c.webm",
+    name: "Hulaing Babies - Hulaing Babies by AOP",
+    videoId : "https://nl.catbox.video/sn8ahl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -241,8 +331,8 @@ export const songs = [
     }
 },
 	{
-    name: "Cardfight!! Vanguard G NEXT - Hello, Mr. Wonder land by Ayako Nakanomori",
-    videoId : "https://nl.catbox.video/4d0bo7.webm",
+    name: "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen - Love Dramatic by Masayuki Suzuki feat. Rikka Ihara",
+    videoId : "https://nl.catbox.video/2f1f2y.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -251,8 +341,8 @@ export const songs = [
     }
 },
 	{
-    name: "Meitantei Conan - Makka na Lip by WANDS",
-    videoId : "https://nl.catbox.video/whydg0.webm",
+    name: "Kakegurui×× - Kono Yubi Tomare by JUNNA",
+    videoId : "https://nl.catbox.video/9zfc33.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -261,8 +351,8 @@ export const songs = [
     }
 },
 	{
-    name: "Rinne no Lagrange - TRY UNITE! by Megumi Nakajima",
-    videoId : "https://nl.catbox.video/tbeskr.webm",
+    name: "Kemono Friends 2 - Notteke! Japaribeat by Doubutsu Biscuits×PPP",
+    videoId : "https://nl.catbox.video/cfm4vw.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -271,8 +361,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sarazanmai - Massara by KANA-BOON",
-    videoId : "https://nl.catbox.video/360nwx.webm",
+    name: "Kemurikusa - KEMURIKUSA by nano",
+    videoId : "https://nl.catbox.video/1l05ao.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -281,8 +371,228 @@ export const songs = [
     }
 },
 	{
-    name: "Bucchigiri?! - Sesame by Kroi",
-    videoId : "https://nl.catbox.video/x39qt6.webm",
+    name: "Korasho no Kaitei Wakuwaku Daibouken! - Kirari Kirari by Reiko Ooshima",
+    videoId : "https://nl.catbox.video/v4vgd5.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Kouya no Kotobuki Hikoutai - Sora no ne by ZAQ",
+    videoId : "https://nl.catbox.video/4v05q9.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Love Live! Sunshine!! The School Idol Movie Over the Rainbow - Bokura no Hashittekita Michi wa... by Aqours",
+    videoId : "https://nl.catbox.video/mal2nj.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Mahou Shoujo Tokushusen Asuka - KODO by nonoc",
+    videoId : "https://nl.catbox.video/8ojg8g.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Meiji Tokyo Renka - Tsukiakari no Rhapsody by KENN",
+    videoId : "https://nl.catbox.video/fe63kk.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Mini Toji - Kono Bangumi wa Ura Wakaki Koumuin-tachi no Teikyou de Ookuri Itashimasu by Kaede Hondo, Himika Akaneya",
+    videoId : "https://nl.catbox.video/zpbq2s.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Mob Psycho 100 II - 99.9 by MOB CHOIR feat. sajou no hana",
+    videoId : "https://nl.catbox.video/vs0gea.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Otaku ni Koi wa Muzukashii - Fiction by sumika",
+    videoId : "https://nl.catbox.video/rehox3.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Pastel Memories - Believe in Sky by Asami Imai",
+    videoId : "https://nl.catbox.video/x3zsn0.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Persona 5 the Animation: Stars and Ours - Dark Sun... by Lyn",
+    videoId : "https://nl.catbox.video/9x1xds.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Piano no Mori - Umi e by Kai Ichinose",
+    videoId : "https://nl.catbox.video/lczge7.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Psycho-Pass: Sinners of the System - abnormalize ― Remixed by MASAYUKI NAKANO by Ling Tosite Sigure",
+    videoId : "https://nl.catbox.video/p0us78.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Puso Ni Comi - Ni Co☆mmunication by Amane + Beat Mario (COOL&CREATE)",
+    videoId : "https://nl.catbox.video/73h03v.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Revisions - Wagamama de Gomakasanaide by THE ORAL CIGARETTES",
+    videoId : "https://nl.catbox.video/2vkmql.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Star☆Twinkle Precure - Kirari☆彡Star☆Twinkle Precure by Rie Kitagawa",
+    videoId : "https://nl.catbox.video/j0h717.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Tatakae! Space Attendant Aoi - Churata Churaha by Earphones",
+    videoId : "https://nl.catbox.video/djispy.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Tate no Yuusha no Nariagari - RISE by MADKID",
+    videoId : "https://nl.catbox.video/ru0tpc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Tate no Yuusha no Nariagari - FAITH by MADKID",
+    videoId : "https://nl.catbox.video/y0siec.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Ueno-san wa Bukiyou - Hirameki Heartbeat by Miku Itou",
+    videoId : "https://nl.catbox.video/lf4zjo.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Virtual-san wa Miteiru - AIAIAI by Kizuna AI feat. Yasutaka Nakata",
+    videoId : "https://nl.catbox.video/h9xa8a.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Virtual-san wa Miteiru - Ai ga Tarinai by Virtual Real feat. Yasutaka Nakata",
+    videoId : "https://nl.catbox.video/xx8iyn.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Watashi ni Tenshi ga Maiorita! - Kimama na Tenshi-tachi by Wataten☆5",
+    videoId : "https://nl.catbox.video/fc26no.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "W'z - Reason by Ryouhei Takenaka",
+    videoId : "https://nl.catbox.video/l46cyi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -290,8 +600,8 @@ export const songs = [
         ]
     }
 },{
-    name: "Gurazeni - Merry Go by Cypress Ueno to Robert Yoshino feat. SKY-HI",
-    videoId : "https://nl.catbox.video/iqem1m.webm",
+    name: "Yakusoku no Neverland - Touch off by UVERworld",
+    videoId : "https://nl.catbox.video/dpymb3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
